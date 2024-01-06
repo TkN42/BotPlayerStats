@@ -15,4 +15,4 @@ Botun amacı :
 
 * bu bilgileri düzgün bir biçimde birleştirip veritabanına yazdım (MongoDB) .
 
-01.01.2024 ' e kadar güncel bilgileri içerir.
+* 01.01.2024 ' e kadar güncel bilgileri içerir.
